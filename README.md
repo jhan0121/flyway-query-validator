@@ -1,2 +1,1 @@
-# Celens
-Celens: A static SQL analyzer for Flyway migration scripts — detects dangerous commands and highlights potential backward compatibility risks.
+A static SQL analyzer for Flyway migration scripts — detects dangerous commands and highlights potential backward compatibility risks.
